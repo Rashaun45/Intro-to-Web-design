@@ -1,0 +1,14 @@
+      h1{
+          color:cornflowerblue;
+        }
+        h2{
+            color:crimson;
+            text-decoration:underline;
+        }
+        h1, h2{
+            font-family: 'gothic', sans-serif;
+        }
+        p{
+            font-family: 'Courier New', Courier, monospace;
+        }
+    
